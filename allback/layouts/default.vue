@@ -6,11 +6,7 @@
           >リコーダー</NuxtLink
         >
       </li>
-      <li>
-        <NuxtLink to="/youtube" style="color: red; text-decoration: none"
-          >YouTube</NuxtLink
-        >
-      </li>
+
       <li>
         <NuxtLink to="/main" style="color: green; text-decoration: none"
           >Aメロ</NuxtLink
@@ -19,6 +15,11 @@
       <li>
         <NuxtLink to="/bmelo" style="color: green; text-decoration: none"
           >Bメロ</NuxtLink
+        >
+      </li>
+      <li>
+        <NuxtLink to="/youtube" style="color: red; text-decoration: none"
+          >YouTube</NuxtLink
         >
       </li>
     </ul>
