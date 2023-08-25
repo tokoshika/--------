@@ -113,6 +113,7 @@
     margin-right: 0.5rem;
     text-align: center;
     line-height: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
   }
 
   .si {
@@ -140,4 +141,6 @@
   .black {
     background-color: black;
   }
+
+ 
 </style>

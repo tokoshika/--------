@@ -147,6 +147,7 @@
     margin-right: 0.5rem;
     text-align: center;
     line-height: 30px;
+    font-family: "Zen Maru Gothic", sans-serif;
   }
 
   .si {
