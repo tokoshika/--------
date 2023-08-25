@@ -16,6 +16,11 @@
           >Aメロ</NuxtLink
         >
       </li>
+      <li>
+        <NuxtLink to="/bmelo" style="color: green; text-decoration: none"
+          >Bメロ</NuxtLink
+        >
+      </li>
     </ul>
   </nav>
 
