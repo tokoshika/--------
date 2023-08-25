@@ -107,7 +107,7 @@
   <br />
 </template>
 
-<style>
+<style scoped>
   .title,
   .full,
   .phrase1,

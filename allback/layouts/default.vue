@@ -11,6 +11,11 @@
           >YouTube</NuxtLink
         >
       </li>
+      <li>
+        <NuxtLink to="/main" style="color: green; text-decoration: none"
+          >Aメロ</NuxtLink
+        >
+      </li>
     </ul>
   </nav>
 
