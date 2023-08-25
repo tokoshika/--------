@@ -113,7 +113,8 @@
     margin-right: 0.5rem;
     text-align: center;
     line-height: 30px;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: "Zen Maru Gothic", sans-serif;
+    font-size: 1.2rem;
   }
 
   .si {
@@ -125,6 +126,7 @@
 
   .re {
     background-color: greenyellow;
+    color: gray;
   }
 
   .so {
@@ -137,10 +139,9 @@
 
   .ra {
     background-color: springgreen;
+    color: gray;
   }
   .black {
     background-color: black;
   }
-
- 
 </style>
