@@ -143,5 +143,6 @@
   }
   .black {
     background-color: black;
+    font-size: 1rem;
   }
 </style>
