@@ -1,15 +1,14 @@
 <template>
   <nav>
     <ul class="nav">
-      <li class="color">
-        <NuxtLink to="/" style="color: rgb(48, 159, 38); text-decoration: none"
-          >リコーダー</NuxtLink
-        >
-      </li>
-
       <li>
         <NuxtLink to="/main" style="color: green; text-decoration: none"
           >Aメロ</NuxtLink
+        >
+      </li>
+      <li class="color">
+        <NuxtLink to="/" style="color: green; text-decoration: none"
+          >間奏</NuxtLink
         >
       </li>
       <li>
@@ -19,7 +18,7 @@
       </li>
       <li>
         <NuxtLink to="/youtube" style="color: red; text-decoration: none"
-          >YouTube</NuxtLink
+          >YouTube見本</NuxtLink
         >
       </li>
     </ul>
@@ -32,6 +31,7 @@
   .nav {
     display: flex;
     list-style: none;
+    background-color: rgb(233, 223, 223);
   }
 
   li {
