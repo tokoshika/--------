@@ -2,12 +2,17 @@
   <nav>
     <ul class="nav">
       <li>
-        <NuxtLink to="/main" style="color: green; text-decoration: none"
+        <NuxtLink to="/" style="color: green; text-decoration: none"
+          >HOME</NuxtLink
+        >
+      </li>
+      <li>
+        <NuxtLink to="/amelo" style="color: green; text-decoration: none"
           >Aメロ</NuxtLink
         >
       </li>
       <li class="color">
-        <NuxtLink to="/" style="color: green; text-decoration: none"
+        <NuxtLink to="/kansou" style="color: green; text-decoration: none"
           >間奏</NuxtLink
         >
       </li>
@@ -32,6 +37,7 @@
     display: flex;
     list-style: none;
     background-color: rgb(233, 223, 223);
+    text-align: center;
   }
 
   li {

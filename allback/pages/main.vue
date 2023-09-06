@@ -3,7 +3,6 @@
     <h3 class="title">強風オールバック(Aメロ)</h3>
     <div class="unshi">
       <img src="~/assets/unshi02.png" />
-      <!-- <img src="~/assets/si.png" class="sias" /> -->
     </div>
     <div class="phrase">
       <div class="phrase1">
