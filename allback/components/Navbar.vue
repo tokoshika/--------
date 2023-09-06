@@ -3,7 +3,7 @@
     <ul class="nav">
       <li>
         <NuxtLink to="/" style="color: green; text-decoration: none"
-          >HOME</NuxtLink
+          >ホーム</NuxtLink
         >
       </li>
       <li>
