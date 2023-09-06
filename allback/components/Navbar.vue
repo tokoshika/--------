@@ -41,6 +41,7 @@
     list-style: none;
     background-color: rgb(233, 223, 223);
     text-align: center;
+    font-family: "Zen Maru Gothic";
   }
 
   li {
