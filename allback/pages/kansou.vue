@@ -102,10 +102,7 @@
       </div>
     </div>
   </div>
-
-  <br />
-  <br />
-</template>
+  </template>
 
 <style scoped>
   .title,

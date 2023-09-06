@@ -110,9 +110,6 @@
       <div class="phrase1">ハト・ハト・ハト・ハト大乱闘</div>
     </div>
   </div>
-
-  <br />
-  <br />
 </template>
 
 <style scoped>
