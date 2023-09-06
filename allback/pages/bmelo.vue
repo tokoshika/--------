@@ -136,6 +136,7 @@
   .phrase4,
   .phrase5 {
     display: flex;
+    font-family: "Zen Maru Gothic";
   }
 
   p {

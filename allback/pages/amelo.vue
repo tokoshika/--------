@@ -1,6 +1,8 @@
 <template>
   <div class="main">
-    <h3 class="title">強風オールバック(<span style="color:tomato">Aメロ</span>)</h3>
+    <h3 class="title">
+      強風オールバック(<span style="color: tomato">Aメロ</span>)
+    </h3>
     <div class="unshi">
       <img src="~/assets/unshi02.png" />
     </div>
@@ -82,7 +84,7 @@
 <style scoped>
   h3 {
     margin-bottom: 0;
-    font-family: 'Zen Maru Gothic';
+    font-family: "Zen Maru Gothic";
   }
 
   .unshi,
@@ -101,6 +103,7 @@
   .phrase3,
   .phrase4 {
     display: flex;
+    font-family: "Zen Maru Gothic";
   }
 
   p {
@@ -114,7 +117,7 @@
     margin-right: 0.5rem;
     text-align: center;
     line-height: 30px;
-    font-family: "Zen Maru Gothic",;
+    font-family: "Zen Maru Gothic";
     font-size: 1.2rem;
   }
 
