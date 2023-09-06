@@ -1,9 +1,10 @@
 <template>
   <div class="main">
-    <h3 class="title">強風オールバック(Bメロ)</h3>
+    <h3 class="title">
+      強風オールバック(<span style="color: tomato">Bメロ</span>)
+    </h3>
     <div class="unshi">
       <img src="~/assets/unshi.png" />
-      <!-- <img src="~/assets/si.png" class="sias" /> -->
     </div>
     <div class="phrase">
       <div class="phrase1">
@@ -113,6 +114,9 @@
 </template>
 
 <style scoped>
+  h3 {
+    margin-bottom: 0;
+  }
   .unshi,
   .title,
   .phrase1,

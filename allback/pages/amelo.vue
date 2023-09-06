@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <h3 class="title">強風オールバック(Aメロ)</h3>
+    <h3 class="title">強風オールバック(<span style="color:tomato">Aメロ</span>)</h3>
     <div class="unshi">
       <img src="~/assets/unshi02.png" />
     </div>
@@ -80,6 +80,10 @@
 </template>
 
 <style scoped>
+  h3 {
+    margin-bottom: 0;
+  }
+
   .unshi,
   .title,
   .phrase1,

@@ -22,7 +22,7 @@
         >
       </li>
       <li>
-        <NuxtLink to="/youtube" style="color: red; text-decoration: none"
+        <NuxtLink to="/youtube" style="color: tomato; text-decoration: none"
           >YouTube見本</NuxtLink
         >
       </li>
@@ -35,14 +35,16 @@
 <style>
   .nav {
     display: flex;
+    justify-content: space-between;
+    margin-left: 2rem;
+    margin-right: 2rem;
     list-style: none;
     background-color: rgb(233, 223, 223);
     text-align: center;
   }
 
   li {
-    margin-left: 0.3rem;
-    margin-right: 0.3rem;
+    margin-right: 3rem;
   }
 
   .color {

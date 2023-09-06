@@ -1,6 +1,8 @@
 <template>
   <div class="main">
-    <h3 class="title">強風オールバック(リコーダー部分)</h3>
+    <h3 class="title">
+      強風オールバック(<span style="color: tomato">間奏</span>)
+    </h3>
     <div class="full">
       <div class="ht-e">
         <div class="ht-e"><p style="background-color: red">レ</p></div>
@@ -102,7 +104,7 @@
       </div>
     </div>
   </div>
-  </template>
+</template>
 
 <style scoped>
   .title,
