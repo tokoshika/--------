@@ -13,9 +13,10 @@
     display: flex;
     justify-content: center;
     margin-left: 0;
+    font-family: 'Zen Maru Gothic';
   }
-  .title{
-    margin-right:1rem;
+  .title {
+    margin-right: 2rem;
   }
   .kyofu {
     width: 55%;
