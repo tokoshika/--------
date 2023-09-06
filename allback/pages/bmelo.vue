@@ -116,6 +116,7 @@
 <style scoped>
   h3 {
     margin-bottom: 0;
+    font-family: "Zen Maru Gothic";
   }
   .unshi,
   .title,
@@ -148,7 +149,7 @@
     margin-right: 0.5rem;
     text-align: center;
     line-height: 30px;
-    font-family: "Zen Maru Gothic", sans-serif;
+    font-family: "Zen Maru Gothic";
     font-size: 1.2rem;
   }
 

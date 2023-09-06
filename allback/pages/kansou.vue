@@ -115,6 +115,7 @@
   .phrase4 {
     justify-content: center;
     text-align: center;
+    font-family: "Zen Maru Gothic";
   }
 
   .phrase1,
@@ -127,6 +128,7 @@
 
   p {
     display: inline-block;
+    font-family: "Zen Maru Gothic";
     width: 30px;
     height: 30px;
     color: white;
